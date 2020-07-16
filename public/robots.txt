@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /api
+Sitemap: https://malashkevich.by/sitemap.xml
